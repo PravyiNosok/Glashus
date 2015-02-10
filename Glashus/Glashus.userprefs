@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Hard Surface Pro\HardSurface Shaders\HardSurface Pro Transparent.shader">
+    <Files>
+      <File FileName="Assets\Hard Surface Pro\HardSurface Shaders\HardSurface Pro Transparent.shader" Line="1" Column="1" />
+      <File FileName="Assets\Hard Surface Pro\HardSurface Shaders\HardSurface Pro Transparent Bump.shader" Line="1" Column="1" />
+      <File FileName="Assets\Hard Surface Pro\HardSurface Shaders\HardSurface Pro Draw Last Transparent.shader" Line="1" Column="1" />
+      <File FileName="Assets\Materials\wood_material_v1.shader" Line="1" Column="1" />
+      <File FileName="Assets\ShaderForge\Example Assets\Shaders\TessellationDisplacement.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
