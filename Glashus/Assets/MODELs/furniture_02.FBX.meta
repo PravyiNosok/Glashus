@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 3a94bc785bd8cbe46a55f59048de9af4
+timeCreated: 1423618954
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: AI_27_005_easel4_02
+    100002: AI_27_005_easel4_03
+    100004: Arc007
+    100006: Box01
+    100008: Box01 1
+    100010: Box024
+    100012: Box15
+    100014: Box326
+    100016: Box327
+    100018: Box330
+    100020: ChamferCyl06
+    100022: Circle01
+    100024: Circle04
+    100026: //RootNode
+    100028: GeoSphere001
+    100030: Line01
+    100032: Line02
+    100034: Line027
+    100036: Line03
+    100038: Object1290
+    100040: Object1291
+    100042: Object1292
+    100044: Object1294
+    100046: Object1300
+    100048: Plane03
+    100050: Sphere01
+    100052: Torus01
+    400000: AI_27_005_easel4_02
+    400002: AI_27_005_easel4_03
+    400004: Arc007
+    400006: Box01
+    400008: Box01 1
+    400010: Box024
+    400012: Box15
+    400014: Box326
+    400016: Box327
+    400018: Box330
+    400020: ChamferCyl06
+    400022: Circle01
+    400024: Circle04
+    400026: //RootNode
+    400028: GeoSphere001
+    400030: Line01
+    400032: Line02
+    400034: Line027
+    400036: Line03
+    400038: Object1290
+    400040: Object1291
+    400042: Object1292
+    400044: Object1294
+    400046: Object1300
+    400048: Plane03
+    400050: Sphere01
+    400052: Torus01
+    2300000: AI_27_005_easel4_02
+    2300002: AI_27_005_easel4_03
+    2300004: Arc007
+    2300006: Box01
+    2300008: Box01 1
+    2300010: Box024
+    2300012: Box15
+    2300014: Box326
+    2300016: Box327
+    2300018: Box330
+    2300020: ChamferCyl06
+    2300022: Circle01
+    2300024: Circle04
+    2300026: GeoSphere001
+    2300028: Line01
+    2300030: Line02
+    2300032: Line027
+    2300034: Line03
+    2300036: Object1290
+    2300038: Object1291
+    2300040: Object1292
+    2300042: Object1294
+    2300044: Object1300
+    2300046: Plane03
+    2300048: Sphere01
+    2300050: Torus01
+    3300000: AI_27_005_easel4_02
+    3300002: AI_27_005_easel4_03
+    3300004: Arc007
+    3300006: Box01
+    3300008: Box01 1
+    3300010: Box024
+    3300012: Box15
+    3300014: Box326
+    3300016: Box327
+    3300018: Box330
+    3300020: ChamferCyl06
+    3300022: Circle01
+    3300024: Circle04
+    3300026: GeoSphere001
+    3300028: Line01
+    3300030: Line02
+    3300032: Line027
+    3300034: Line03
+    3300036: Object1290
+    3300038: Object1291
+    3300040: Object1292
+    3300042: Object1294
+    3300044: Object1300
+    3300046: Plane03
+    3300048: Sphere01
+    3300050: Torus01
+    4300000: AI_27_005_easel4_03
+    4300002: Object1294
+    4300004: Box024
+    4300006: ChamferCyl06
+    4300008: Box01
+    4300010: Arc007
+    4300012: Object1292
+    4300014: Object1291
+    4300016: Object1290
+    4300018: AI_27_005_easel4_02
+    4300020: Box326
+    4300022: Box330
+    4300024: Object1300
+    4300026: Box327
+    4300028: GeoSphere001
+    4300030: Circle01
+    4300032: Circle04
+    4300034: Line01
+    4300036: Line02
+    4300038: Line03
+    4300040: Sphere01
+    4300042: Box01
+    4300044: Torus01
+    4300046: Box15
+    4300048: Line027
+    4300050: Plane03
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
