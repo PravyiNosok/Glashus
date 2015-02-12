@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\testCamController\camflying.cs" />
      <Compile Include="Assets\testCamController\camflying1.cs" />
+     <Compile Include="Assets\testCamController\video.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
