@@ -21,6 +21,7 @@ limitations under the License.
 
 using UnityEngine;
 using System.Collections.Generic;
+using System.Collections;
 
 /// <summary>
 /// Controls the player's movement in virtual reality.
@@ -93,7 +94,8 @@ public class OVRPlayerController : MonoBehaviour
 	private bool prevHatLeft = false;
 	private bool prevHatRight = false;
 	private float SimulationRate = 60f;
-
+	private bool loading = false;
+	private float loadProgress = 0;
 	void Awake()
 	{
 		Controller = gameObject.GetComponent<CharacterController>();
@@ -143,6 +145,13 @@ public class OVRPlayerController : MonoBehaviour
 			CameraController.transform.localRotation = InitialPose.Value.orientation;
 			InitialPose = null;
 		}
+		if (!loading) {
+			if (Input.GetKeyDown (KeyCode.Alpha1)){
+				StartCoroutine(_waitAndLoad (0));
+			} else if (Input.GetKeyDown (KeyCode.Alpha2)) {
+				StartCoroutine(_waitAndLoad (1));
+			}
+		}
 
 		UpdateMovement();
 
@@ -183,7 +192,20 @@ public class OVRPlayerController : MonoBehaviour
 		if (predictedXZ != actualXZ)
 			MoveThrottle += (actualXZ - predictedXZ) / (SimulationRate * Time.deltaTime);
 	}
-
+	public IEnumerator _waitAndLoad(int level){
+		if (level != Application.loadedLevel) {
+			loading = true;
+			AsyncOperation ass = Application.LoadLevelAsync (level);
+			ass.allowSceneActivation = false;
+			while (ass.progress<0.88f){
+				loadProgress = ass.progress;
+				yield return null;
+			}
+			ass.allowSceneActivation = true;
+			loading = false;
+		}
+		yield return null;
+	}
 	public virtual void UpdateMovement()
 	{
 		if (HaltUpdateMovement)
