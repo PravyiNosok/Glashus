@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 0ad90b1958b2bcd49a2311a5c4f1bde2
+timeCreated: 1428440785
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Box003
+    100004: Box006
+    100006: Box020
+    100008: Box023
+    100010: Circle001
+    100012: Circle002
+    100014: Cylinder002
+    100016: fridge_007_047
+    100018: //RootNode
+    100020: Line002
+    100022: Line01
+    100024: Object012
+    100026: Object013
+    100028: Object014
+    100030: Object015
+    100032: Object016
+    100034: Object017
+    100036: Object018
+    100038: Plane414
+    400000: Box002
+    400002: Box003
+    400004: Box006
+    400006: Box020
+    400008: Box023
+    400010: Circle001
+    400012: Circle002
+    400014: Cylinder002
+    400016: fridge_007_047
+    400018: //RootNode
+    400020: Line002
+    400022: Line01
+    400024: Object012
+    400026: Object013
+    400028: Object014
+    400030: Object015
+    400032: Object016
+    400034: Object017
+    400036: Object018
+    400038: Plane414
+    2300000: Box002
+    2300002: Box003
+    2300004: Box006
+    2300006: Box020
+    2300008: Box023
+    2300010: Circle001
+    2300012: Circle002
+    2300014: Cylinder002
+    2300016: fridge_007_047
+    2300018: Line002
+    2300020: Object012
+    2300022: Object013
+    2300024: Object014
+    2300026: Object015
+    2300028: Object016
+    2300030: Object017
+    2300032: Object018
+    2300034: Plane414
+    3300000: Box002
+    3300002: Box003
+    3300004: Box006
+    3300006: Box020
+    3300008: Box023
+    3300010: Circle001
+    3300012: Circle002
+    3300014: Cylinder002
+    3300016: fridge_007_047
+    3300018: Line002
+    3300020: Object012
+    3300022: Object013
+    3300024: Object014
+    3300026: Object015
+    3300028: Object016
+    3300030: Object017
+    3300032: Object018
+    3300034: Plane414
+    4300000: Line002
+    4300002: Plane414
+    4300004: Object012
+    4300006: Circle001
+    4300008: Object013
+    4300010: Object014
+    4300012: Circle002
+    4300014: Object015
+    4300016: Box002
+    4300018: Box003
+    4300020: Cylinder002
+    4300022: Box006
+    4300024: Object016
+    4300026: Box020
+    4300028: fridge_007_047
+    4300030: Box023
+    4300032: Object017
+    4300034: Object018
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
