@@ -1,6 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
+Project("{234483F5-BB73-442A-9C8A-FF0269EC8C08}") = "Glashus", "Assembly-CSharp-firstpass-vs.csproj", "{479B4279-A03A-A818-EFE2-2D25174CC339}"
+EndProject
 Project("{234483F5-BB73-442A-9C8A-FF0269EC8C08}") = "Glashus", "Assembly-CSharp-vs.csproj", "{0CBB69AC-41CB-0087-B920-68E0CE1CB160}"
 EndProject
 Project("{234483F5-BB73-442A-9C8A-FF0269EC8C08}") = "Glashus", "Assembly-CSharp-Editor-vs.csproj", "{2CEE51CA-051E-4CBA-D250-6837345296BC}"
@@ -11,6 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479B4279-A03A-A818-EFE2-2D25174CC339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479B4279-A03A-A818-EFE2-2D25174CC339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479B4279-A03A-A818-EFE2-2D25174CC339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479B4279-A03A-A818-EFE2-2D25174CC339}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0CBB69AC-41CB-0087-B920-68E0CE1CB160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0CBB69AC-41CB-0087-B920-68E0CE1CB160}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CBB69AC-41CB-0087-B920-68E0CE1CB160}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -23,7 +29,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																																																																																																																								GlobalSection(MonoDevelopProperties) = preSolution
+																																																																																																																																																																			GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
